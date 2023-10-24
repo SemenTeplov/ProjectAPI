@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(122, 176, 247);
+    padding: 30px;
+}
+.header-text {
+    font-size: 2rem;
+    color: #fff;
+    margin-bottom: 5px;
+}
+.menu {
+    margin: 0;
+    height: 10px;
+    width: 80%;
+    padding: 20px;
+    margin: 0 auto;
+}
+.menu a {
+    padding: 10px;
+    color: #fff;
+}
+.active {
+	paddding: 0.5rem;
+	background-color: rgb(75, 114, 243);
+	color: white;
+	text-decoration: none;
+}

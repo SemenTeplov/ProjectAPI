@@ -1,0 +1,7 @@
+<div class="popular">
+    <div class="card" *ngFor="let articl of news.articles">
+        <img src="{{articl.urlToImage}}">
+        <h3>{{articl.title}}</h3>
+        <p>{{articl.description}}</p>
+    </div>
+</div>
